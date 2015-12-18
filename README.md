@@ -23,7 +23,7 @@ Standard AB method:
 
 
 I like the epsilon greedy method. It is simple and witty. 
-The only problem is that in reality you don't know what the best solution is so you can never know if you have gotten to the "actual" best solution yet. The epsilon greedy method will eventually get there (although you will never know if it has). And if you are using the standard AB method you will never know if you have arrived at the best option either, especially when we are talking about the difference between 1/20 clicks versus 1/21 clicks.
+The only problem is that in reality you don't know what the best solution is so you can never know if you have gotten to the "actual" best solution yet. The epsilon greedy method will eventually get there (although you will never know if it has). And if you are using the standard AB method you will never know if you have arrived at the best option either, especially when we are talking about the difference between a clickthrough of 1 in 20 versus a clickthrough of 1 in 21.
 
 Moral of the story -- AB testing is probably a waste of time.
 
